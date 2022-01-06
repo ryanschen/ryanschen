@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Ryan 👋
+
+I'm a third year Computer Engineering Major at UCLA in the Fast Track Program.
+
+I have experience in Python, MySQL, Verilog/SystemVerilog, and much more!
 
 <!--
 **ryanschen/ryanschen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
