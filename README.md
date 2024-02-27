@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-I'm a third year Computer Engineering Major at UCLA in the Fast Track Program.
+UCLA '23 '24
 
 I have experience in Python, C++, MySQL, Verilog/SystemVerilog, and much more!
 
